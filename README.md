@@ -16,7 +16,7 @@ Créer un chatbot intelligent qui peut répondre à des questions fréquentes de
 
 | Membre             | Rôle dans le projet                                                |
 |--------------------|---------------------------------------------------------------------|
-| Coordinateur (Toi) | Planification, organisation, tests, documentation                   |
+| Coordinateur       | Planification, organisation, tests, documentation                   |
 | Développeur        | Intégration Gemma, interface utilisateur, logique d’interrogation   |
 | Data Analyst       | Préparation des données, structuration des cas, évaluation qualité  |
 | Technicien IT      | Fourniture de cas concrets, export de la base documentaire, validation technique |
